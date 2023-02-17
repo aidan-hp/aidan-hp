@@ -7,7 +7,7 @@
 
 - <b>Copywriting</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>UX Content</b>
+- <b>UX Design</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2>🖊 Publications:</h2>
