@@ -24,7 +24,7 @@
 [<img align="left" alt="AidanPtasznik | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" />][gmail]
 
 [linkedin]: https://linkedin.com/in/aidanptasznik
-[gmail]: aidanptasznik@gmail.com
+[gmail]: mailto:aidanptasznik@gmail.com
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
