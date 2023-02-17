@@ -1,4 +1,4 @@
-<h1>I'm Aidan, a <a href="https://github.com/joshmadakor1">Digital Copywriter</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Content Designer</a><br/> in Brisbane, Australia.</h1>
+<h1>Aidan Ptasznik. <a href="https://github.com/joshmadakor1">Digital Copywriter</a>. <a href="https://www.linkedin.com/in/joshmadakor/">UI/UX Content Designer</a>.</h1>
 
 <b>If you're interested in working together, contact me at <a href="mailto:aidanptasznik@gmail.com"> aidanptasznik@gmail.com</a>.
 
