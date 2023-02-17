@@ -22,10 +22,10 @@
 [<img align="left" alt="AidanPtasznik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AidanPtasznik | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" />][gmail]
 
-[linkedin]: https://linkedin.com/in/aidanptasznik
+[linkedin]: https://linkedin.com/in/aidan-ptasznik
 [gmail]: mailto:aidanptasznik@gmail.com
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aidan-hp/aidan-hp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
