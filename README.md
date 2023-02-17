@@ -1,7 +1,6 @@
-<h1>Aidan Ptasznik. <br/>
-<a href="https://github.com/joshmadakor1">Digital Copywriter, </a><a href="https://www.linkedin.com/in/joshmadakor/">UX Content Designer.</a></h1>
-
-<b>If you're interested in working together, contact me at <a href="mailto:aidanptasznik@gmail.com"> aidanptasznik@gmail.com</a>.
+<h1>Aidan Ptasznik. 
+<br/> <a href="https://github.com/joshmadakor1">Digital Copywriter, </a> <a href="https://www.linkedin.com/in/joshmadakor/">UX Content Designer.</a>
+</h1>
 
 <h2>📓 My Portfolio:</h2>
 
