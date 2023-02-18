@@ -1,10 +1,10 @@
 <h1>
 Aidan Ptasznik. 
 <a href="https://linkedin.com/in/aidan-ptasznik">
-<img align="right" alt="AidanPtasznik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" />
+<img align="right" alt="AidanPtasznik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" />
 </a>
 <a href="mailto:aidanptasznik@gmail.com">
-<img align="right" alt="AidanPtasznik | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" />
+<img align="right" alt="AidanPtasznik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" />
 </a>
 <br/> 
 <a href="https://github.com/joshmadakor1">Digital Copywriter, </a>
@@ -25,25 +25,6 @@ Aidan Ptasznik.
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2>📲 Connect with me:</h2>
-
-[<img align="left" alt="AidanPtasznik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AidanPtasznik | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" />][gmail]
-
-[linkedin]: https://linkedin.com/in/aidan-ptasznik
-[gmail]: mailto:aidanptasznik@gmail.com
 <!--
-**aidan-hp/aidan-hp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for taking a look at my profile! 
