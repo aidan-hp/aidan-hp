@@ -25,7 +25,7 @@ Aidan Ptasznik.
 
 [Copywriting](#copywriting)
 
-[Copywriting]
+Copywriting
 <!--
 
 Thank you for taking a look at my profile! 
