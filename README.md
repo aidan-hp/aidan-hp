@@ -4,9 +4,7 @@ Aidan Ptasznik.
 <img align="right" alt="AidanPtasznik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" /></a>
 <a href="mailto:aidanptasznik@gmail.com">
 <img align="right" alt="AidanPtasznik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" /></a>
-</h1>
 <br/>
-<h1> 
 [Digital Copywriter](#copywriting)
   <br/>
 <a href="#uxdesign">UX Content Designer.</a>
