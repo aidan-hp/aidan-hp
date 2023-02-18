@@ -1,18 +1,17 @@
-<h1>[Aidan Ptasznik.](#my-portfolio)
+<h1>Aidan Ptasznik.
 <a href="https://linkedin.com/in/aidan-ptasznik">
 <img align="right" alt="AidanPtasznik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" /></a>
 <a href="mailto:aidanptasznik@gmail.com">
 <img align="right" alt="AidanPtasznik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" /></a>
 <br/>
-<a href="#copywriting">Digital Copywriter,</a>
-<a href="#uxdesign">UX Content Designer.</a>
+Digital Copywriter, UX Content Designer.
 </h1>
 
-<h2>📓 [My Portfolio]:</h2>
+<h2>📓 My Portfolio:</h2>
 
-- <b id="copywriting">Copywriting</b>
+- <b>Copywriting</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b id="uxdesign">UX Design</b>
+- <b>UX Design</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [See More](#copywriting)
 
