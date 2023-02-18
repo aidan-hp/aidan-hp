@@ -10,10 +10,11 @@ Digital Copywriter, UX Content Designer.
 <h2>📓 My Portfolio:</h2>
 
 - <b>Copywriting</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Website Redesign](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Whitepaper Creation]
 - <b>UX Design</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [See More](#copywriting)
+  - [Help Centre](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Transactional Emails](#copywriting)
 
 <h2>🖊 Publications:</h2>
 
