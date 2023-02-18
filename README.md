@@ -1,10 +1,14 @@
 <h1>
 Aidan Ptasznik. 
-<a href="https://linkedin.com/in/aidan-ptasznik"><img align="right" alt="AidanPtasznik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" /></a>
-<a href="mailto:aidanptasznik@gmail.com"><img align="right" alt="AidanPtasznik | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" /></a>
-
+<a href="https://linkedin.com/in/aidan-ptasznik">
+<img align="right" alt="AidanPtasznik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" />
+</a>
+<a href="mailto:aidanptasznik@gmail.com">
+<img align="right" alt="AidanPtasznik | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" />
+</a>
 <br/> 
-<a href="https://github.com/joshmadakor1">Digital Copywriter, </a> <a href="https://www.linkedin.com/in/joshmadakor/">UX Content Designer.</a>
+<a href="https://github.com/joshmadakor1">Digital Copywriter, </a>
+<a href="https://www.linkedin.com/in/joshmadakor/">UX Content Designer.</a>
 </h1>
 
 <h2>📓 My Portfolio:</h2>
