@@ -1,19 +1,20 @@
 <h1>
 Aidan Ptasznik. 
 <a href="https://linkedin.com/in/aidan-ptasznik">
-<img align="right" alt="AidanPtasznik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" />
-</a>
+<img align="right" alt="AidanPtasznik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" /></a>
 <a href="mailto:aidanptasznik@gmail.com">
-<img align="right" alt="AidanPtasznik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" />
-</a>
-<br/> 
-<a href="#copywriting">Digital Copywriter, </a>
+<img align="right" alt="AidanPtasznik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" /></a>
+</h1>
+<br/>
+<h1> 
+[Digital Copywriter](#copywriting)
+  <br/>
 <a href="#uxdesign">UX Content Designer.</a>
 </h1>
 
 <h2>📓 My Portfolio:</h2>
 
-- <b id="copywriting">Copywriting</b>
+- <b>Copywriting<a id='copywriting'></a></b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b id="uxdesign">UX Design</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
