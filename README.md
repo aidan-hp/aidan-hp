@@ -15,6 +15,7 @@ Aidan Ptasznik.
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b id="uxdesign">UX Design</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [See More](#copywriting)
 
 <h2>🖊 Publications:</h2>
 
@@ -23,9 +24,9 @@ Aidan Ptasznik.
 - [The 5 Biggest Trends That Will Shape Australian Construction in 2020](https://www.felix.net/project-news/the-5-biggest-trends-that-will-shape-australian-construction-in-2020)
 - [The Top 6 Construction Project You Missed Out On This Year](https://www.felix.net/project-news/the-top-6-construction-projects-you-missed-out-on-this-year)
 
-[Copywriting](#copywriting)
 
-Copywriting
+
+[Copywriting]
 <!--
 
 Thank you for taking a look at my profile! 
