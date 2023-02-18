@@ -10,7 +10,7 @@ Digital Copywriter, UX Content Designer.
 <h2>📓 My Portfolio:</h2>
 
 - <b>Copywriting</b>
-  - [Website Redesign](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/aidan-hp/website-redesign)
+  - [Website Redesign](https://github.com/aidan-hp/website-redesign)
   - [Whitepaper Creation](enter website)
 - <b>UX Design</b>
   - [Help Centre](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
