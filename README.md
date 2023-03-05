@@ -11,7 +11,6 @@ Digital Copywriter, UX Content Designer.
 
 - <b>Copywriting</b>
   - [Website Redesign](https://github.com/aidan-hp/website-redesign)
-  - [Whitepaper Creation](enter website)
 - <b>UX Design</b>
   - [Help Centre](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Transactional Emails](copywriting)
