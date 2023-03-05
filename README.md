@@ -12,8 +12,8 @@ Digital Copywriter, UX Content Designer.
 - <b>Copywriting</b>
   - [Website Redesign](https://github.com/aidan-hp/website-redesign)
 - <b>UX Design</b>
-  - [Help Centre](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Transactional Emails](copywriting)
+  - [Help Centre](https://github.com/aidan-hp/help-centre)
+  - [Transactional Emails](https://github.com/aidan-hp/transactional-emails)
 
 <h2>🖊 Publications:</h2>
 
