@@ -1,10 +1,9 @@
-<h1>Aidan Hanley.
+<h1>I'm Aidan Hanley. Welcome to my copywriting portfolio.
 <a href="https://linkedin.com/in/aidan-ptasznik">
 <img align="right" alt="AidanPtasznik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" /></a>
 <a href="mailto:aidanptasznik@gmail.com">
 <img align="right" alt="AidanPtasznik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" /></a>
 <br/>
-My copywriting portfolio.
 </h1>
 
 <h2>📓 My Portfolio:</h2>
