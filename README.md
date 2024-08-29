@@ -1,10 +1,10 @@
-<h1>Aidan Ptasznik.
+<h1>Aidan Hanley.
 <a href="https://linkedin.com/in/aidan-ptasznik">
 <img align="right" alt="AidanPtasznik | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/linkedin.svg" /></a>
 <a href="mailto:aidanptasznik@gmail.com">
 <img align="right" alt="AidanPtasznik | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/gmail.svg" /></a>
 <br/>
-Digital Copywriter, UX Content Designer.
+My copywriting portfolio.
 </h1>
 
 <h2>📓 My Portfolio:</h2>
